@@ -1,0 +1,16 @@
+# Output files -- may contain real business contact data
+*.csv
+
+# Local config -- contains your personal API key
+.lead_scanner_config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# OS cruft
+.DS_Store
